@@ -1,0 +1,2 @@
+class AddColorAgeToCat < ApplicationRecord
+end
